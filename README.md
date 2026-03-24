@@ -51,7 +51,7 @@ The engine classifies each period into **four regimes**:
 | Good   | Favorable volatility + structure alignment | Full risk allocation |
 | Mixed  | Unclear conditions | Reduced exposure |
 | Strong | Extreme momentum / instability | Selective participation |
-| Poor   | Low-quality environment | Minimal or no trading |
+| Poor   | Low-quality environment | Selective participation |
 
 ---
 
