@@ -1,5 +1,4 @@
-# FX-Regime-Engine
-# 📊 Volatility Regime Engine  
+# Volatility Regime Engine  
 *A systematic framework for identifying high- and low-probability trading environments using volatility dynamics*
 
 ---
@@ -21,12 +20,12 @@ The objective is to:
 
 ## 2. Key Features
 
-- 📈 Multi-asset support (EUR/USD, Gold)
-- 📉 Rolling volatility computation (20-day baseline)
-- 🧠 Regime classification framework (Good / Mixed / Strong / Poor)
-- ⚙️ Position sizing overlay based on regime probability
-- 📊 Visualization of price vs volatility regimes
-- 🔍 Designed for live trading integration
+-  Multi-asset support (EUR/USD, Gold)
+-  Rolling volatility computation (20-day baseline)
+-  Regime classification framework (Good / Mixed / Strong / Poor)
+-  Position sizing overlay based on regime probability
+-  Visualization of price vs volatility regimes
+-  Designed for live trading integration
 
 ---
 
@@ -108,10 +107,10 @@ This enables:
 
 The engine produces:
 
-- 📉 Price charts with regime overlays  
-- 📊 Volatility time series  
-- 🔴 Highlighted low-probability environments  
-- 📈 Cross-asset comparisons  
+-  Price charts with regime overlays  
+-  Volatility time series  
+-  Highlighted low-probability environments  
+-  Cross-asset comparisons  
 
 These outputs are used to:
 - Diagnose historical drawdowns  
