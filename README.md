@@ -76,14 +76,14 @@ Regimes are translated into **risk multipliers**:
 #### EUR/USD
 - Good → 1.00x  
 - Mixed → 0.50x  
-- Strong → 0.90x  
-- Poor → 0.20x  
+- Strong → 1.00x  
+- Poor → 0.75x  
 
 #### XAU/USD
-- Good → 1.00x  
-- Mixed → 0.85x  
+- Good → 0.50x  
+- Mixed → 1.00x  
 - Strong → 0.25x  
-- Poor → 0.15x  
+- Poor → 1.00x  
 
 This enables:
 - Dynamic capital allocation  
