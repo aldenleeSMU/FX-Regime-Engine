@@ -5,7 +5,7 @@
 
 ## 1. Overview
 
-This project implements a **volatility regime classification engine** designed to improve trading performance by dynamically adjusting exposure based on market conditions.
+This project implements a **volatility regime classification engine** designed to improve my current trading performance by dynamically adjusting exposure based on market conditions.
 
 The model was developed after observing that:
 
